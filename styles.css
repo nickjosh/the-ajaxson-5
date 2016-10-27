@@ -1,0 +1,27 @@
+button, input[type="submit"] {
+	padding: 10px;
+	background: lightgray;
+	border: 2px solid red;
+	color: purple;
+  width: 20%;
+}
+
+ input[id="j6"] {
+   padding: 10px;
+ 	background: lightgray;
+ 	border: 2px solid red;
+ 	color: black;
+  width: 50%;
+}
+input[id="j5"] {
+  padding: 10px;
+ background: lightgray;
+ border: 2px solid red;
+ color: black;
+ width: 50%;
+}
+
+body {
+  color: purple;
+  background-color: powderblue;
+}
